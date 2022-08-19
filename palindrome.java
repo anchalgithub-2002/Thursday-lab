@@ -3,7 +3,7 @@ class palindrome
 	public static void main(String args[])
 	{
 		int r,sum=0,temp;
-		int n=454;
+		int n="anchal";
 		temp=n;
 		while(n>0)
 		{
